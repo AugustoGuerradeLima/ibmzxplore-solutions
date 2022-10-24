@@ -7,5 +7,5 @@
 <a href="https://www.ibm.com/docs/en/zoau/1.0.x?topic=SSKFYE_1.0.3/python_doc_zoautil/index.html">zoautil IBM documentation</a> &middot;
 <a href="https://www.openmainframeproject.org/">open mainframe project</a> &middot;
 <a href="https://www.linuxfoundation.org/">linux foundation</a> &middot;
-<a https://docs.zowe.org/stable/web_help/index.html?p=zowe_zos-files">zowe cli</a>
+<a href="https://docs.zowe.org/stable/web_help/index.html?p=zowe_zos-files">zowe cli</a>
 
