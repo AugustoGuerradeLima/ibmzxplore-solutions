@@ -5,3 +5,5 @@
 </div>
 <h2>Links</h2>
 <a href="https://www.ibm.com/docs/en/zoau/1.0.x?topic=SSKFYE_1.0.3/python_doc_zoautil/index.html">zoautil IBM documentation</a>
+<a href="https://www.openmainframeproject.org/">open mainframe project</a>
+<a href="https://www.linuxfoundation.org/">linux foundation</a>
