@@ -1,0 +1,4 @@
+zowe zos-files create data-set-sequential Zxxxxx.ZOWEPS --blksize 9600 --lrecl 120
+zowe zos-files create data-set-vsam Zxxxxx.VSAMDS
+zowe zos-files list ds Zxxxxx.VSAMDS -a
+zowe jobs submit lf "repro.txt"
