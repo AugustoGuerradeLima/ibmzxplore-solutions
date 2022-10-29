@@ -1,8 +1,5 @@
 <h2>Earned badges</h2>
 <div>
-<img src='https://static.influitive.com/influitiveimages/ibmzxplore/icons/badges/default/Fundamentals_Icon700x700.png?1627933761'>
-<img src='https://static.influitive.com/influitiveimages/ibmzxplore/icons/badges/default/Concepts_Icon700x700.png?1627933895'>
-<br>
 <img src='https://images.credly.com/size/340x340/images/b3a7f4b7-54b0-4457-98cc-334a3cc672b9/image.png' href='https://www.credly.com/badges/add6ffc7-cfd3-4a80-9ca2-c38fed4285e2'>
 </div>
 <h2>Links</h2>
