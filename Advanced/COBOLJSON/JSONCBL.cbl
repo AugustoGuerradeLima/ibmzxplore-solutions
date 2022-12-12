@@ -3,7 +3,7 @@
        Author. Augusto.
       ******************************************************************
        ENVIRONMENT DIVISION.
-       Input-output section.
+       Input-output section. 
        File-control.
       * The COBOL program names the output file "flyer". The following
       * statement associates the program's name "flyer" with the
