@@ -1,4 +1,5 @@
 <h2>Earned badges</h2>
+<h2>IBMzxplore</h2>
 <div>
 <img src='https://images.credly.com/size/340x340/images/b3a7f4b7-54b0-4457-98cc-334a3cc672b9/image.png'>
 <img src='https://images.credly.com/size/340x340/images/c8f58c5c-e4dc-4d80-9b5d-3ae174cbab72/image.png'>
