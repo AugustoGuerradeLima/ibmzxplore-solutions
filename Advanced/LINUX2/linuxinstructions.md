@@ -1,2 +1,12 @@
-1st step<p></p>
+<p>1st step</p>
 <code>sudo yum install httpd.s390x</code>
+<p>2nd step</p>
+create index.html and enable firewall
+<p>3th step</p>
+acces the page http://(your_ip), and show the logs in linux terminal
+<p>4th step <p>
+<p>use crl to dowload vitetris and open</p>
+<code>curl -LO https://github.com/vicgeralds/vitetris/archive/v0.58.0.tar.gz</code>
+<code>tar xvf v0.58.0</code>
+<p>5th step - (need to install gcc)</p>
+<code>sudo yum install make gcc</code>
