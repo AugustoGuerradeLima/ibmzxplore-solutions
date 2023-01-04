@@ -10,3 +10,9 @@ acces the page http://(your_ip), and show the logs in linux terminal
 <code>tar xvf v0.58.0</code>
 <p>5th step - (need to install gcc)</p>
 <code>sudo yum install make gcc</code>
+<p>6th step<p>
+<p>inside the tetirs directory configure and run the game</p>
+<code>./configure && make</code>
+<code>./tetris</code>
+<p>you are runing tetris in a ibm mainframe.</p>
+<img src='https://cdn.discordapp.com/attachments/954003796093173770/1060255136716423249/image.png'>
