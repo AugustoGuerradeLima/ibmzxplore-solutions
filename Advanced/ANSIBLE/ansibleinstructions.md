@@ -4,4 +4,4 @@
 <p>3rd step - edit the zxp.yml</p>
 <p>4th open the ansible container terminal</p>
 <code>ansible-playbook ping.yml</code>
-<p>5th - send the ansible JCL</p>
+<p>5th - send the ansible JCL</p> 
