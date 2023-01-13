@@ -1,0 +1,23 @@
+---
+  - hosts: mtm
+    gather_facts: no
+    environment:
+      ZOAU_ROOT: "{{zoau_home}}"    
+      ZOAU_HOME: "{{zoau_home}}" 
+      PATH: "{{zoau_home}}/bin:{{python_path}}/bin:/bin:."
+      LIBPATH: "{{zoau_home}}/lib:{{python_path}}/lib:/lib:/usr/lib:."
+      PYTHONPATH: "{{zoau_home}}/lib"
+      _BPXK_AUTOCVT: "ON"
+        
+    collections:
+      - ibm.ibm_zos_core
+    
+    tasks:
+      - name: change encoding
+        zos_encode:
+          src: ZXP.PUBLIC.INPUT(ANSIBLED)
+          dest: Zxxxxx.SOURCE(ASCII)
+          from_encoding: IBM-1047
+          to_encoding: ISO8859-1
+          register: job_detail
+      
