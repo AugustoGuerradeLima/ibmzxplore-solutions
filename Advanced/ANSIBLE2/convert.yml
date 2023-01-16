@@ -6,7 +6,7 @@
       ZOAU_HOME: "{{zoau_home}}" 
       PATH: "{{zoau_home}}/bin:{{python_path}}/bin:/bin:."
       LIBPATH: "{{zoau_home}}/lib:{{python_path}}/lib:/lib:/usr/lib:."
-      PYTHONPATH: "{{zoau_home}}/lib"
+      PYTHONPATH: "{{zoau_home}}/lib" 
       _BPXK_AUTOCVT: "ON"
         
     collections:
