@@ -11,7 +11,7 @@
         
     collections:
       - ibm.ibm_zos_core
-    
+     
     tasks:
       - name: change encoding
         zos_encode:
