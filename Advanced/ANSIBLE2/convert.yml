@@ -1,5 +1,5 @@
 ---
-  - hosts: mtm
+  - hosts: zxp
     gather_facts: no
     environment:
       ZOAU_ROOT: "{{zoau_home}}"    
