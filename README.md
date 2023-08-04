@@ -5,10 +5,10 @@
 <img src='https://images.credly.com/size/340x340/images/c8f58c5c-e4dc-4d80-9b5d-3ae174cbab72/image.png'>
 </div>
 <h2>Links</h2>
-<a href="https://www.ibm.com/docs/en/zoau/1.0.x?topic=SSKFYE_1.0.3/python_doc_zoautil/index.html">zoautil IBM documentation</a> &middot;
-<a href="https://www.openmainframeproject.org/">open mainframe project</a> &middot;
-<a href="https://www.linuxfoundation.org/">linux foundation</a> &middot;
-<a href="https://docs.zowe.org/stable/web_help/index.html?p=zowe_zos-files">zowe cli</a> &middot;
-<a href="https://developer.ibm.com/articles/get-started-with-ibm-linuxone/">IBM LinuxONE</a> &middot;
-<a href="https://ibm.github.io/z_ansible_collections_doc/ibm_zos_core/docs/ansible_content.html">IBM z/OS Core</a>
+<a href="https://www.ibm.com/docs/en/zoau/1.0.x?topic=SSKFYE_1.0.3/python_doc_zoautil/index.html" target=blank>zoautil IBM documentation</a> &middot;
+<a href="https://www.openmainframeproject.org/" target=blank>open mainframe project</a> &middot;
+<a href="https://www.linuxfoundation.org/" target=blank>linux foundation</a> &middot;
+<a href="https://docs.zowe.org/stable/web_help/index.html?p=zowe_zos-files" target=blank>zowe cli</a> &middot;
+<a href="https://developer.ibm.com/articles/get-started-with-ibm-linuxone/" target=blank>IBM LinuxONE</a> &middot;
+<a href="https://ibm.github.io/z_ansible_collections_doc/ibm_zos_core/docs/ansible_content.html" target=blank>IBM z/OS Core</a>
 
